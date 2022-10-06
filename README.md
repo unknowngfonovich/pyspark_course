@@ -1,2 +1,3 @@
 # pyspark_course
-PySpark course with lesson and excersices
+
+Exersices and test durign leraning PySpark
